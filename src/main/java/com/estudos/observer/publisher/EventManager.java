@@ -4,6 +4,7 @@ import java.io.File;
 import java.util.*;
 import com.estudos.observer.listener.EventListener;
 
+//Publicador
 public class EventManager {
 
     Map<String, List<EventListener>> listeners = new HashMap<>();

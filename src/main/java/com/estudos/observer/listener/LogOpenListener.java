@@ -2,7 +2,9 @@ package com.estudos.observer.listener;
 
 import java.io.File;
 
+//Assinante
 public class LogOpenListener implements EventListener{
+
     private File log;
 
     public LogOpenListener(String fileName){

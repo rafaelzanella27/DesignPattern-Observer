@@ -2,6 +2,7 @@ package com.estudos.observer.listener;
 
 import java.io.File;
 
+//Assinante
 public class EmailNotificationListener implements EventListener{
 
     private String email;

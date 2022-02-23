@@ -4,6 +4,7 @@ import com.estudos.observer.publisher.EventManager;
 
 import java.io.File;
 
+//Exemplo editor de texto (rastreado por outros objetos)
 public class Editor {
 
     public EventManager events;
